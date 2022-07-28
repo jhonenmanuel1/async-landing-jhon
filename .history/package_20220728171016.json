@@ -1,0 +1,22 @@
+{
+  "name": "async-landing-jhon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "gh-pages": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhonenmanuel1/async-landing-jhon.git"
+  },
+  "author": "Jhon Santiago",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jhonenmanuel1/async-landing-jhon/issues"
+  },
+  "homepage": "https://github.com/jhonenmanuel1/async-landing-jhon#readme",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
